@@ -3,9 +3,12 @@
 
 This project is a comprehensive Credit Card Financial Dashboard developed using PowerBI. The dashboard contains two main reports:
 
-1. Credit Card Customer Report
+ #### 1. Credit Card Customer Report
+<img src="https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/30aab49d606b9aeabb3761d624427fd348222883/Cust_report.jpg" alt="Customer Report" width="500"/>
 
-2. Credit Card Transaction Report
+ #### 2. Credit Card Transaction Report
+
+<img src="https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/47b0c54de5f5c2286c36ffe2b924f31765ccfe43/Trans_report.jpg" alt="Customer Report" width="500"/>
 
 These reports provide in-depth insights into customer behavior, transaction trends, spending patterns, and financial performance related to credit card usage. The project is designed to assist financial institutions and businesses in understanding customer profiles, transaction activities, and overall credit card usage patterns.
 
@@ -71,18 +74,6 @@ How to Use the Dashboard:-
    
 The project files, including the PowerBI template file (.pbit) and CSV datasets, are available in this repository.
 
-
-## Screenshots:-
-
-
-   #### Credit Card Customer Report
-<img src="https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/30aab49d606b9aeabb3761d624427fd348222883/Cust_report.jpg" alt="Customer Report" width="500"/>
-
-
-
-   #### Credit Card Transaction Report
-
-<img src="https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/47b0c54de5f5c2286c36ffe2b924f31765ccfe43/Trans_report.jpg" alt="Customer Report" width="500"/>
 
 
 #### Technologies Used:-
