@@ -17,48 +17,48 @@ These reports provide in-depth insights into customer behavior, transaction tren
 1. Credit Card Customer Report
 The Credit Card Customer Report focuses on analyzing customer-related data. It includes:
 
-Customer Segmentation: Groups customers based on credit utilization, spending behavior, and account balances.
+**Customer Segmentation**: Groups customers based on credit utilization, spending behavior, and account balances.
 
-Credit Score Insights: Provides a breakdown of customer credit scores to help identify high-risk vs. low-risk customers.
+**Credit Score Insights**: Provides a breakdown of customer credit scores to help identify high-risk vs. low-risk customers.
 
-Credit Limit Analysis: Displays the distribution of credit limits and how customers utilize their available credit.
+**Credit Limit Analysis**: Displays the distribution of credit limits and how customers utilize their available credit.
 
-Top Customers: Identifies top customers based on spending levels, helping to target premium customers.
+**Top Customers**: Identifies top customers based on spending levels, helping to target premium customers.
 
-Delinquency Rate: Analyzes customer delinquencies based on credit utilization and payment history.
+**Delinquency Rate**: Analyzes customer delinquencies based on credit utilization and payment history.
 
 This report helps businesses better understand their customers' credit behavior and take action to improve customer satisfaction, retention, and credit risk management.
 
 2. Credit Card Transaction Report
 The Credit Card Transaction Report focuses on the analysis of credit card transactions. It includes:
 
-Transaction Volume & Value: Displays the total number and value of transactions over time (monthly, quarterly, yearly).
+**Transaction Volume & Value**: Displays the total number and value of transactions over time (monthly, quarterly, yearly).
 
-Spending Categories: Breaks down spending into categories such as travel, dining, groceries, etc.
+**Spending Categories**: Breaks down spending into categories such as travel, dining, groceries, etc.
 
-Top Merchants: Identifies merchants with the highest transaction volumes, providing insights for partnership opportunities.
+**Top Merchants**: Identifies merchants with the highest transaction volumes, providing insights for partnership opportunities.
 
-Transaction Trends: Tracks seasonal and cyclical trends in credit card usage.
+**Transaction Trends**: Tracks seasonal and cyclical trends in credit card usage.
 
-Fraud Detection: Highlights unusual transaction patterns that may indicate fraudulent activity.
+**Fraud Detection**: Highlights unusual transaction patterns that may indicate fraudulent activity.
 
 This report helps financial institutions monitor and manage transaction activity, detect fraud, and gain insights into where customers are spending.
 
 ## Key Features
 
-Interactive Dashboards: Both reports are fully interactive, with filters and slicers allowing users to view data for specific time periods, categories, and customer segments.
+**Interactive Dashboards**: Both reports are fully interactive, with filters and slicers allowing users to view data for specific time periods, categories, and customer segments.
 
-Visualizations: The dashboard includes bar charts, pie charts, line graphs, and tables to provide clear, actionable insights.
+**Visualizations**: The dashboard includes bar charts, pie charts, line graphs, and tables to provide clear, actionable insights.
 
-KPIs and Metrics: Key metrics such as total transaction value, average spend per customer, delinquency rates, and credit utilization are highlighted for quick reference.
+**KPIs and Metrics**: Key metrics such as total transaction value, average spend per customer, delinquency rates, and credit utilization are highlighted for quick reference.
 
 ## Data Sources
 
 The dataset used for this project includes:
 
-Customer Data: Information such as customer ID, credit score, credit limit, balance, and account status.
+**Customer Data**: Information such as customer ID, credit score, credit limit, balance, and account status.
 
-Transaction Data: Detailed transaction data including transaction ID, date, merchant name, category, and transaction amount.
+**Transaction Data**: Detailed transaction data including transaction ID, date, merchant name, category, and transaction amount.
 
 The data is derived from CSV files provided, which are connected to the PowerBI reports for analysis.
 
@@ -78,11 +78,11 @@ The project files, including the PowerBI template file (.pbit) and CSV datasets,
 
 ## Technologies Used
 
-PowerBI: For creating interactive reports and dashboards.
+**PowerBI**: For creating interactive reports and dashboards.
 
-DAX (Data Analysis Expressions): Used for calculating custom metrics and KPIs.
+**DAX (Data Analysis Expressions)**: Used for calculating custom metrics and KPIs.
 
-CSV Files: The source data for customer and transaction details.
+**CSV Files**: The source data for customer and transaction details.
 
 
 <!--[Customer Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/30aab49d606b9aeabb3761d624427fd348222883/Cust_report.jpg)
@@ -90,6 +90,6 @@ CSV Files: The source data for customer and transaction details.
 ## Contact Information
 For any questions or feedback, feel free to reach out via:
 
-Email: sahilss6205@gmail.com
+**Email**: sahilss6205@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/sahil-kumar-576313250/
+**LinkedIn**: https://www.linkedin.com/in/sahil-kumar-576313250/
