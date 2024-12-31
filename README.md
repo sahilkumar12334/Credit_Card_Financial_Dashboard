@@ -76,11 +76,11 @@ Screenshots:-
 
 
    ### Credit Card Customer Report
-![Customer Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/issues/2#issue-2764122323)
+![Customer Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/images/2#issue-2764122323)
 
 
    ### Credit Card Transaction Report
-![Customer Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/issues/1#issue-2764117253)
+![Transaction Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/images/1#issue-2764117253)
 
 
 Technologies Used:-
