@@ -76,11 +76,11 @@ The project files, including the PowerBI template file (.pbit) and CSV datasets,
 
 
    #### Credit Card Customer Report
-![Customer Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/issues/2#issue-2764122323)
+![Customer Report]()
 
 
    #### Credit Card Transaction Report
-![Transaction Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/3f2c2f70889a9715156186d5af170fcb9560871c/Transaction_Report.jpg)
+![Transaction Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/47b0c54de5f5c2286c36ffe2b924f31765ccfe43/Trans_report.jpg)
 
 
 #### Technologies Used:-
