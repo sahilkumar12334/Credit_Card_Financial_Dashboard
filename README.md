@@ -4,6 +4,7 @@ Project Overview:-
 This project is a comprehensive Credit Card Financial Dashboard developed using PowerBI. The dashboard contains two main reports:
 
 1.Credit Card Customer Report
+
 2.Credit Card Transaction Report
 
 These reports provide in-depth insights into customer behavior, transaction trends, spending patterns, and financial performance related to credit card usage. The project is designed to assist financial institutions and businesses in understanding customer profiles, transaction activities, and overall credit card usage patterns.
@@ -14,10 +15,15 @@ Reports:-
 The Credit Card Customer Report focuses on analyzing customer-related data. It includes:
 
 Customer Segmentation: Groups customers based on credit utilization, spending behavior, and account balances.
+
 Credit Score Insights: Provides a breakdown of customer credit scores to help identify high-risk vs. low-risk customers.
+
 Credit Limit Analysis: Displays the distribution of credit limits and how customers utilize their available credit.
+
 Top Customers: Identifies top customers based on spending levels, helping to target premium customers.
+
 Delinquency Rate: Analyzes customer delinquencies based on credit utilization and payment history.
+
 This report helps businesses better understand their customers' credit behavior and take action to improve customer satisfaction, retention, and credit risk management.
 
 2. Credit Card Transaction Report
