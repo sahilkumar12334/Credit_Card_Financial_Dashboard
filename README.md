@@ -76,13 +76,13 @@ The project files, including the PowerBI template file (.pbit) and CSV datasets,
 
 
    #### Credit Card Customer Report
-![Customer Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/30aab49d606b9aeabb3761d624427fd348222883/Cust_report.jpg)
 <img src="https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/30aab49d606b9aeabb3761d624427fd348222883/Cust_report.jpg" alt="Customer Report" width="500"/>
 
 
 
    #### Credit Card Transaction Report
-![Transaction Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/47b0c54de5f5c2286c36ffe2b924f31765ccfe43/Trans_report.jpg)
+
+<img src="https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/47b0c54de5f5c2286c36ffe2b924f31765ccfe43/Trans_report.jpg" alt="Customer Report" width="500"/>
 
 
 #### Technologies Used:-
@@ -94,7 +94,8 @@ DAX (Data Analysis Expressions): Used for calculating custom metrics and KPIs.
 CSV Files: The source data for customer and transaction details.
 
 
-
+![Customer Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/30aab49d606b9aeabb3761d624427fd348222883/Cust_report.jpg)
+![Transaction Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/blob/47b0c54de5f5c2286c36ffe2b924f31765ccfe43/Trans_report.jpg)
 ### Contact Information:-
 For any questions or feedback, feel free to reach out via:
 
