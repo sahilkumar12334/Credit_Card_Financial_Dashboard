@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Dashboard
-Project Overview:-
+###Project Overview:-
 
 This project is a comprehensive Credit Card Financial Dashboard developed using PowerBI. The dashboard contains two main reports:
 
@@ -9,7 +9,7 @@ This project is a comprehensive Credit Card Financial Dashboard developed using 
 
 These reports provide in-depth insights into customer behavior, transaction trends, spending patterns, and financial performance related to credit card usage. The project is designed to assist financial institutions and businesses in understanding customer profiles, transaction activities, and overall credit card usage patterns.
 
-Reports:-
+###Reports:-
 
 1. Credit Card Customer Report
 The Credit Card Customer Report focuses on analyzing customer-related data. It includes:
@@ -41,7 +41,7 @@ Fraud Detection: Highlights unusual transaction patterns that may indicate fraud
 
 This report helps financial institutions monitor and manage transaction activity, detect fraud, and gain insights into where customers are spending.
 
-Key Features:-
+###Key Features:-
 
 Interactive Dashboards: Both reports are fully interactive, with filters and slicers allowing users to view data for specific time periods, categories, and customer segments.
 
@@ -49,7 +49,7 @@ Visualizations: The dashboard includes bar charts, pie charts, line graphs, and 
 
 KPIs and Metrics: Key metrics such as total transaction value, average spend per customer, delinquency rates, and credit utilization are highlighted for quick reference.
 
-Data Sources:-
+###Data Sources:-
 
 The dataset used for this project includes:
 
@@ -67,12 +67,12 @@ How to Use the Dashboard:-
  4. Interact with the reports using the available filters and slicers to explore various customer and transaction insights.
 
    
-   GitHub Repository:-
+##   GitHub Repository:-
    
 The project files, including the PowerBI template file (.pbit) and CSV datasets, are available in this repository.
 
 
-Screenshots:-
+##Screenshots:-
 
 
    ### Credit Card Customer Report
@@ -83,7 +83,7 @@ Screenshots:-
 ![Transaction Report](https://github.com/sahilkumar12334/Credit_Card_Financial_Dashboard/issues/1#issue-2764117253)
 
 
-Technologies Used:-
+###Technologies Used:-
 
 PowerBI: For creating interactive reports and dashboards.
 
@@ -93,7 +93,7 @@ CSV Files: The source data for customer and transaction details.
 
 
 
-Contact Information:-
+###Contact Information:-
 For any questions or feedback, feel free to reach out via:
 
 Email: sahilss6205@gmail.com
