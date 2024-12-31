@@ -50,6 +50,7 @@ Visualizations: The dashboard includes bar charts, pie charts, line graphs, and 
 KPIs and Metrics: Key metrics such as total transaction value, average spend per customer, delinquency rates, and credit utilization are highlighted for quick reference.
 
 Data Sources:-
+
 The dataset used for this project includes:
 
 Customer Data: Information such as customer ID, credit score, credit limit, balance, and account status.
@@ -86,8 +87,11 @@ DAX (Data Analysis Expressions): Used for calculating custom metrics and KPIs.
 
 CSV Files: The source data for customer and transaction details.
 
+
+
 Contact Information:-
 For any questions or feedback, feel free to reach out via:
 
 Email: sahilss6205@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sahil-kumar-576313250/
